@@ -1,0 +1,38 @@
+.tovar img {
+	float: left;
+	padding-right: 15px;
+	width: 250px;
+	height: 200px;
+}
+
+.tovar {
+	clear: both;
+	margin-bottom: 20px;
+	display: inline-block;
+	width: 100%;
+	border-bottom: 1px solid silver;
+	padding-bottom: 20px;
+}
+
+h3 {
+	margin-top: 0px !important;
+}
+
+.price {
+    background: green none repeat scroll 0 0;
+    color: white;
+    display: block;
+    font-weight: bold;
+    padding: 5px;
+    position: absolute;
+    text-align: center;
+    width: 235px;
+}
+
+.menu {
+    font-size: 18px;
+}
+
+.showproduct td {
+	padding: 10px;
+}
